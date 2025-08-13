@@ -15,5 +15,5 @@ y pruebes el código equivalente en C#.
 
 Abre [este
 link](https://mybinder.org/v2/gh/ucudal/PII_Desafios_Python_CSharp/main?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
-para accede4r a **Binder**. Ten paciencia, el sitio puede demorar en mostarse.
+para acceder a **Binder**. Ten paciencia, el sitio puede demorar en mostarse.
 La página que vas a ver, tiene las instrucciones para completar los desaríos.
