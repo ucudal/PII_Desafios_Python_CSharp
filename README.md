@@ -7,10 +7,13 @@ width="150"/>
 
 ### Programación II
 
-# Desafíos de programación en C# para programadores Python
+# Desafíos de programación en C# para desarrolladores Python
 
 Este repositorio está diseñado para ser utilizado en **Binder**, un sitio web
 que permite combinar consignas de código Python con un espacio para que escribas
 y pruebes el código equivalente en C#.
 
-Abre [este link]() para accede4r a **Binder**.
+Abre [este
+link](https://mybinder.org/v2/gh/ucudal/PII_Desafios_Python_CSharp/main?urlpath=%2Fdoc%2Ftree%2Findex.ipynb)
+para accede4r a **Binder**. Ten paciencia, el sitio puede demorar en mostarse.
+La página que vas a ver, tiene las instrucciones para completar los desaríos.
